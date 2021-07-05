@@ -838,7 +838,7 @@ a:hover:active {
 .header-container .header-content .title-center-content {
 	position: relative;
 	width: 100%;
-	top: 50vh;
+	top: 35vh;
 	left: 0;
 	-webkit-transform: translateY(-50%);
 	-moz-transform: translateY(-50%);
