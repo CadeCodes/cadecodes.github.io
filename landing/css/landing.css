@@ -88,7 +88,7 @@ a {
 		max-width: 40rem!important
 	}
 	.rotated-gui-right {
-		transform: scalex(1.1) scaley(1.1) perspective(500px) rotateY(-10deg) rotateX(-1deg) rotateZ(2deg);
+		transform: scalex(1.1) scaley(1.1) translateY(100px) perspective(500px) rotateY(-10deg) rotateX(-1deg) rotateZ(2deg);
 		filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.3))
 	}
 	.rotated-gui-left {
